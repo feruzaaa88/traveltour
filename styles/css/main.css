@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(19, 4, 4);
+  position: relative;
+}
+
+button {
+  position: absolute;
+  left: 500px;
+  top: 200px;
+  padding: 80px 120px;
+  color: rgb(3, 3, 13);
+  font-size: 50px;
+  font-weight: 30px;
+  background-color: rgb(147, 5, 5);
+  border: 35px solid rgb(92, 88, 88);
+  border-radius: 20px;
+}
+
+button:hover {
+  background-color: green;
+}/*# sourceMappingURL=main.css.map */
